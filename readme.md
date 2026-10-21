@@ -2,6 +2,11 @@
 
 Meu Brain é uma aplicação para organização de ideias e leitura. A plataforma permite que o usuário faça cadastro e login, crie tarefas relacionadas a artigos, organize materiais para leitura e acompanhe o progresso de seus estudos e produções.
 
+## Colaboração 
+<a href="https://github.com/marianafurriel"> @MarianaFurriel </a> e 
+<a href="https://github.com/milennafeijo"> @MilennaFeijo </a>
+
+
 ## Visão geral
 
 O projeto foi pensado para ajudar pessoas a manterem um fluxo produtivo de leitura, pesquisa e criação de conteúdo. Com uma interface simples e moderna, o usuário consegue:
